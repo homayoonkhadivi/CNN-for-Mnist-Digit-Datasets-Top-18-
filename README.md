@@ -25,7 +25,7 @@ In this notebook, I will go through the following items:
 
 **Adding the development set**
 
-**Building the CNN Model**
+**Using Trasnfer Learning Architecture ResNet50, CNN Model**
 
 for more information about this kernel, check out my Kaggle Profile here:
 
