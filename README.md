@@ -5,6 +5,8 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
 
+**In this notebook I am using the MNIST Digits dataset.  About the dataset: The dataset consists of 10 classes of handwritten Images pictures each with a number between 0-9.**
+
 In this notebook, I will go through the following items:
 
 **Data Understanding**
@@ -25,10 +27,12 @@ In this notebook, I will go through the following items:
 
 **Building the CNN Model**
 
-**In this notebook I am using the MNIST Digits dataset.  About the dataset: The dataset consists of 10 classes of handwritten Images pictures each with a number between 0-9.**
+for more information about this kernel, check out my Kaggle Profile here:
 
-![download](https://user-images.githubusercontent.com/57557590/104821515-ab08ad80-5851-11eb-80bd-df75c267a9ea.gif)
+https://www.kaggle.com/homayoonkhadivi/cnn-for-mnist-digit-datasets
 
-![__results___21_0](https://user-images.githubusercontent.com/57557590/104821517-ae9c3480-5851-11eb-831b-cc63500f90d9.png)
+
+
+
 
 
