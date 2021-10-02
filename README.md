@@ -30,7 +30,7 @@ In this notebook, I will go through the following items:
 for more information about this kernel, check out my Kaggle Profile here:
 
 https://www.kaggle.com/homayoonkhadivi/cnn-for-mnist-digit-datasets
-1234567891011121345678911123456789112134567891011122
+12345678910111213456789111234567891121345678910111223
 
 
 
